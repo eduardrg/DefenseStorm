@@ -1,6 +1,16 @@
 # DefenseStorm Stats Editor v0.9
 Front end for manipulating a Google Spreadsheet of cybersecurity-related statistics, written in React.
+## Screenshots
+### Sample data sorted by title.
+![Sample data sorted by title](https://gyazo.com/259a83ff204f35211aa6b246d157eb5a.png)
 
+### Adding a stat.
+![Adding a stat](https://gyazo.com/3a13a75858036672b3fd45a2db222c78.png)
+
+### Searching for an existing stat.
+![Searching for an existing stat](https://gyazo.com/9594032be00e28151355689758c23d25.png)
+
+# Deployment
 ## Requirements
 ### 1. Google Spreadsheet to which your Google account has read and write access  
   1. Create a Google Sheet
